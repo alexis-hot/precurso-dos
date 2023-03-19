@@ -1,2 +1,1 @@
-# precurso-dos
-mi primer repositorio modulo dos
+mi proyecto de prueva
